@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi there 👋 I'm Lehlohonolo Khoathane, An Aspiring Full Stack Developer & Data Scientist
 
-<!--
-**LehlohonoloKhoathane/LehlohonoloKhoathane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on an ecommerce project
+- 🌱 I’m currently learning more about Data Science, Machine Learning and Artificial Intelligence
+- 📫 How to reach me: https://my-react-portfolio-c6d3e.web.app/, khoathanelehlohonolo@gmail.com
+- ⚡ Fun fact: I think I'm a low key talkative
 
-Here are some ideas to get you started:
+### Resume
+https://drive.google.com/file/u/1/d/11QZcGIzMg_JJwe1_ned3JGNJWFkzELTD/view?usp=sharing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- C, C++, C#, Java, JavaScript, PHP, Python
+
+### Frontend Development
+-Vue.js, React.js, Angulae.js, Html, CSS, SASS, Tailwind, Bootstrap
+
+### Backend Development
+-Node.js, Spring, Express.js
+
+### Mobile app Development
+- React Native, Flutter, Dart
+
+### Artificial Intelligence / Machine Learning
+-Tensorflow, Scikit_Learn
+
+### DataBases
+-MongoDB, MySQl, PostgreSQL, Oracle
+
+### DevOos
+-Azure
+
+### Backend as a Service (BaaS)
+-Firebase, Heroku
+
+### Framework
+- Django
+
+### Software
+-figma, Postman
+
+### Other
+-Linux, Git
