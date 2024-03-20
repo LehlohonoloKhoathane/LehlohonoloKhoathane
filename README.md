@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LehlohonoloKhoathane?tab=repositories](https://github.com/LehlohonoloKhoathane?tab=repositories)
 
-- 📫 How to reach me **khoathanelehlohonolo@gmail.com**
+- 📫 How to reach me **khoathanelehlohonolo@gmail.com** or **https://my-react-portfolio-c6d3e.web.app/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11QZcGIzMg_JJwe1_ned3JGNJWFkzELTD/view](https://drive.google.com/file/d/11QZcGIzMg_JJwe1_ned3JGNJWFkzELTD/view)
 
